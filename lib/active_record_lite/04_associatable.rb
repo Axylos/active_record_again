@@ -10,7 +10,7 @@ class AssocOptions
   )
 
   def model_class
-    # ...
+
   end
 
   def table_name
